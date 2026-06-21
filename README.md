@@ -1,10 +1,10 @@
 # 📦 Smart Supply and Logistics Management System
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET 9.0](https://img.shields.io/badge/.NET-9.0-purple?style=for-the-badge&logo=dotnet)
+![.NET 9.0](https://img.shields.io/badge/.NET-9.0-purple?style=for-the-badge)
 ![Application Type](https://img.shields.io/badge/App_Type-Console-lightgrey?style=for-the-badge)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-7_GoF-orange?style=for-the-badge)
-![Architecture](https://img.shields.io/badge/Architecture-N--Tier_/_Clean-brightgreen?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/Architecture-N--Tier_/_MVC-brightgreen?style=for-the-badge)
 
 A robust **C# .NET 9.0 Console Application** developed as a Logistics Management System for an undergraduate Object-Oriented Analysis and Design (OOAD) course. This project features an advanced multi-layered architecture, 7 classic GoF design patterns, and complete UML 2.0 diagrams.
 
