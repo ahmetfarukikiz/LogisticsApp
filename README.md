@@ -79,13 +79,12 @@ To ensure maximum flexibility and adherence to the Open/Closed Principle, the fo
 ### Installation & Execution
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name
+   git clone https://github.com/ahmetfarukikiz/LogisticsApp.git
    ```
 
 2. **Navigate to the Presentation layer directory:**
    ```bash
-   cd Logistics.Presentation
+   cd LogisticsApp/src/Logistics.Presentation
    ```
 
 3. **Build and run the application:**
